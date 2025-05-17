@@ -1,0 +1,7 @@
+{
+	"user": "virtuous-byte",
+	"repo": "vehicle-skin-macros",
+	"tag": "0.0.1",
+	"entry": "vehicle-skin-macros.pwn",
+	"output": "gamemodes/vehicle-skin-macros.amx"
+}
